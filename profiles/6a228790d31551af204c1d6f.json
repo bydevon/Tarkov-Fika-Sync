@@ -116,7 +116,7 @@
             }
           }
         },
-        "UpdateTime": 1780651453
+        "UpdateTime": 1780876328
       },
       "Inventory": {
         "items": [
@@ -4349,7 +4349,7 @@
         "HideoutCounters": null,
         "Seed": "6b8579d9e736d8a86f9df01ef87f92ff",
         "MannequinPoses": {},
-        "sptUpdateLastRunTimestamp": 1780651504,
+        "sptUpdateLastRunTimestamp": 1780876856,
         "Customization": {
           "Wall": "675844bdf94a97cbbe096f1a",
           "Floor": "6758443ff94a97cbbe096f18",
@@ -5433,8 +5433,8 @@
       "_id": "5a7c2eca46aef81a7ca2145d"
     },
     "54cb50c76803fa8b248b4571": {
-      "attachmentsNew": 0,
-      "new": 1,
+      "attachmentsNew": 2,
+      "new": 3,
       "type": 2,
       "pinned": false,
       "messages": [
@@ -5448,6 +5448,119 @@
           "hasRewards": false,
           "rewardCollected": false,
           "items": {},
+          "maxStorageTime": 86313600
+        },
+        {
+          "_id": "6a260428d14b41153c8d93d2",
+          "uid": "54cb50c76803fa8b248b4571",
+          "type": 13,
+          "dt": 1780876328,
+          "templateId": "5fd4c8b59e4b2a58b34bbd28 0",
+          "text": "",
+          "hasRewards": true,
+          "rewardCollected": false,
+          "items": {
+            "stash": "64b996c9d0de4697180359b6",
+            "data": [
+              {
+                "_id": "6a260428d14b41153c8d93d3",
+                "_tpl": "544fb45d4bdc2dee738b4568",
+                "parentId": "64b996c9d0de4697180359b6",
+                "slotId": "main",
+                "upd": {
+                  "StackObjectsCount": 1
+                }
+              },
+              {
+                "_id": "6a260428d14b41153c8d93d4",
+                "_tpl": "5d02778e86f774203e7dedbe",
+                "parentId": "64b996c9d0de4697180359b6",
+                "slotId": "main",
+                "upd": {
+                  "StackObjectsCount": 1
+                }
+              },
+              {
+                "_id": "6a260428d14b41153c8d93d5",
+                "_tpl": "6034d0230ca681766b6a0fb5",
+                "parentId": "64b996c9d0de4697180359b6",
+                "slotId": "main",
+                "upd": {
+                  "StackObjectsCount": 1
+                }
+              }
+            ]
+          },
+          "maxStorageTime": 86313600
+        },
+        {
+          "_id": "6a260428d14b41153c8d93d6",
+          "uid": "54cb50c76803fa8b248b4571",
+          "type": 13,
+          "dt": 1780876328,
+          "templateId": "5fd4c8d49e4b2a58b34bbd29 0",
+          "text": "",
+          "hasRewards": true,
+          "rewardCollected": false,
+          "items": {
+            "stash": "64b996c9d0de4697180359b6",
+            "data": [
+              {
+                "_id": "6a260428d14b41153c8d93d7",
+                "_tpl": "5751a25924597722c463c472",
+                "parentId": "64b996c9d0de4697180359b6",
+                "slotId": "main",
+                "upd": {
+                  "StackObjectsCount": 1
+                }
+              },
+              {
+                "_id": "6a260428d14b41153c8d93d8",
+                "_tpl": "5751a25924597722c463c472",
+                "parentId": "64b996c9d0de4697180359b6",
+                "slotId": "main",
+                "upd": {
+                  "StackObjectsCount": 1
+                }
+              },
+              {
+                "_id": "6a260428d14b41153c8d93d9",
+                "_tpl": "5ca20d5986f774331e7c9602",
+                "parentId": "64b996c9d0de4697180359b6",
+                "slotId": "main",
+                "upd": {
+                  "StackObjectsCount": 1
+                }
+              },
+              {
+                "_id": "6a260428d14b41153c8d93da",
+                "_tpl": "5755356824597772cb798962",
+                "parentId": "64b996c9d0de4697180359b6",
+                "slotId": "main",
+                "upd": {
+                  "StackObjectsCount": 1
+                }
+              },
+              {
+                "_id": "6a260428d14b41153c8d93db",
+                "_tpl": "5755356824597772cb798962",
+                "parentId": "64b996c9d0de4697180359b6",
+                "slotId": "main",
+                "upd": {
+                  "StackObjectsCount": 1
+                }
+              },
+              {
+                "_id": "6a260428d14b41153c8d93dc",
+                "_tpl": "5755356824597772cb798962",
+                "parentId": "64b996c9d0de4697180359b6",
+                "slotId": "main",
+                "upd": {
+                  "StackObjectsCount": 1
+                }
+              }
+            ]
+          },
           "maxStorageTime": 86313600
         }
       ],
@@ -5810,12 +5923,42 @@
         "author": "Fika",
         "dateAdded": 1780649885,
         "url": "https://github.com/project-fika/Fika-Server-CSharp"
+      },
+      {
+        "name": "AllTheClothes",
+        "version": "3.0.0",
+        "author": "RaiRaiTheRaichu",
+        "dateAdded": 1780876328,
+        "url": "https://github.com/rairaitheraichu/spt-alltheclothes"
+      },
+      {
+        "name": "Remove FIR from Hideout",
+        "version": "1.0.0",
+        "author": "zas",
+        "dateAdded": 1780876328
+      },
+      {
+        "name": "SAIN",
+        "version": "4.4.3",
+        "author": "Solarint",
+        "dateAdded": 1780876328,
+        "url": "https://github.com/ArchangelWTF/SAIN"
       }
     ],
     "receivedGifts": [
       {
         "giftId": "MechanicGiftDay1",
         "timestampLastAccepted": 1780648463,
+        "current": 1
+      },
+      {
+        "giftId": "PraporGiftDay1",
+        "timestampLastAccepted": 1780876328,
+        "current": 1
+      },
+      {
+        "giftId": "PraporGiftDay2",
+        "timestampLastAccepted": 1780876328,
         "current": 1
       }
     ],
