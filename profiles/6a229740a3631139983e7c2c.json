@@ -114,7 +114,7 @@
             }
           }
         },
-        "UpdateTime": 1780970224
+        "UpdateTime": 1780971299
       },
       "Inventory": {
         "items": [
@@ -6859,8 +6859,8 @@
             "parentId": "6a2297cda3631139983e7d28",
             "slotId": "main",
             "location": {
-              "x": 3,
-              "y": 7,
+              "x": 5,
+              "y": 9,
               "r": "Horizontal"
             },
             "upd": {
@@ -8308,8 +8308,8 @@
             "parentId": "6a2297cda3631139983e7d28",
             "slotId": "main",
             "location": {
-              "x": 3,
-              "y": 8,
+              "x": 0,
+              "y": 9,
               "r": "Horizontal"
             },
             "upd": {
@@ -8325,8 +8325,8 @@
             "parentId": "6a2297cda3631139983e7d28",
             "slotId": "main",
             "location": {
-              "x": 4,
-              "y": 4,
+              "x": 3,
+              "y": 7,
               "r": "Horizontal"
             },
             "upd": {
@@ -12783,12 +12783,6 @@
           "value": 4,
           "sourceId": "67f3ea581cd4c15d3d040305"
         },
-        "6a25132c4809d26df0b1d354": {
-          "id": "6a25132c4809d26df0b1d354",
-          "type": "CounterCreator",
-          "value": 0,
-          "sourceId": "6a25132c4809d26df0b1d34f"
-        },
         "68341a0b2f0e2a7eb90b62d7": {
           "id": "68341a0b2f0e2a7eb90b62d7",
           "type": "CounterCreator",
@@ -13656,7 +13650,7 @@
         "HideoutCounters": null,
         "Seed": "3474d079d11330450e05e392bfb15f69",
         "MannequinPoses": {},
-        "sptUpdateLastRunTimestamp": 1780971194,
+        "sptUpdateLastRunTimestamp": 1780971555,
         "Customization": {
           "Wall": "675844bdf94a97cbbe096f1a",
           "Floor": "6758443ff94a97cbbe096f18",
@@ -15520,7 +15514,7 @@
       "WishList": {},
       "Variables": {},
       "moneyTransferLimitData": {
-        "nextResetTime": 1745599874,
+        "nextResetTime": 1745686274,
         "remainingLimit": 1000000,
         "totalLimit": 1000000,
         "resetInterval": 86400
