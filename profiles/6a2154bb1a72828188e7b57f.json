@@ -118,7 +118,7 @@
             "Effects": {}
           }
         },
-        "UpdateTime": 1780971035
+        "UpdateTime": 1780971333
       },
       "Inventory": {
         "items": [
@@ -13558,12 +13558,6 @@
           "value": 3,
           "sourceId": "5967733e86f774602332fc84"
         },
-        "6a24cb0f8f249745403fd353": {
-          "id": "6a24cb0f8f249745403fd353",
-          "type": "HandoverItem",
-          "value": 1,
-          "sourceId": "6a24cb0f8f249745403fd351"
-        },
         "596b450986f7745a7e510b54": {
           "id": "596b450986f7745a7e510b54",
           "type": "HandoverItem",
@@ -13599,18 +13593,6 @@
           "type": "HandoverItem",
           "value": 1,
           "sourceId": "5d2495a886f77425cd51e403"
-        },
-        "6a24cb0f8f249745403fd348": {
-          "id": "6a24cb0f8f249745403fd348",
-          "type": "CounterCreator",
-          "value": 5,
-          "sourceId": "6a24cb0f8f249745403fd344"
-        },
-        "6a24cbc58f24974540400d62": {
-          "id": "6a24cbc58f24974540400d62",
-          "type": "CounterCreator",
-          "value": 5,
-          "sourceId": "6a24cbc58f24974540400d5e"
         },
         "5d24ba7886f77439c92d6baa": {
           "id": "5d24ba7886f77439c92d6baa",
@@ -13791,24 +13773,6 @@
           "type": "CounterCreator",
           "value": 11,
           "sourceId": "6a261c94811161d4aca408ca"
-        },
-        "6a261c94811161d4aca408a8": {
-          "id": "6a261c94811161d4aca408a8",
-          "type": "CounterCreator",
-          "value": 11,
-          "sourceId": "6a261c94811161d4aca408a4"
-        },
-        "6a261c94811161d4aca408b3": {
-          "id": "6a261c94811161d4aca408b3",
-          "type": "HandoverItem",
-          "value": 0,
-          "sourceId": "6a261c94811161d4aca408b1"
-        },
-        "6a261c94811161d4aca408c1": {
-          "id": "6a261c94811161d4aca408c1",
-          "type": "CounterCreator",
-          "value": 0,
-          "sourceId": "6a261c94811161d4aca408bc"
         },
         "5bc850d186f7747213700892": {
           "id": "5bc850d186f7747213700892",
@@ -14695,7 +14659,7 @@
         "HideoutCounters": null,
         "Seed": "2310ac88b3abebb1742b452894eea073",
         "MannequinPoses": {},
-        "sptUpdateLastRunTimestamp": 1780971194,
+        "sptUpdateLastRunTimestamp": 1780971555,
         "Customization": {
           "Wall": "675844bdf94a97cbbe096f1a",
           "Floor": "6758443ff94a97cbbe096f18",
@@ -18565,6 +18529,7 @@
           "hasRewards": false,
           "rewardCollected": false,
           "items": {},
+          "maxStorageTime": 86313600,
           "systemData": {
             "date": "07.06.2026",
             "time": "07:16",
@@ -18913,7 +18878,7 @@
               }
             ]
           },
-          "maxStorageTime": 172800
+          "maxStorageTime": 86313600
         }
       ],
       "_id": "54cb50c76803fa8b248b4571"
