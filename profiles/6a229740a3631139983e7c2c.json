@@ -59,11 +59,11 @@
       },
       "Health": {
         "Hydration": {
-          "Current": 27,
+          "Current": 105,
           "Maximum": 105
         },
         "Energy": {
-          "Current": 17,
+          "Current": 105,
           "Maximum": 105
         },
         "Temperature": {
@@ -114,7 +114,7 @@
             }
           }
         },
-        "UpdateTime": 1781513254
+        "UpdateTime": 1781594484
       },
       "Inventory": {
         "items": [
@@ -9407,7 +9407,7 @@
           },
           {
             "_id": "6a2297cda3631139983e7c51",
-            "_tpl": "65e080be269cbd5c5005e529",
+            "_tpl": "a8edfb0bce53d103d3f62b9b",
             "parentId": "6a2297cda3631139983e7c2e",
             "slotId": "Pockets"
           },
@@ -19003,7 +19003,7 @@
         "HideoutCounters": null,
         "Seed": "3474d079d11330450e05e392bfb15f69",
         "MannequinPoses": {},
-        "sptUpdateLastRunTimestamp": 1781513787,
+        "sptUpdateLastRunTimestamp": 1781594573,
         "Customization": {
           "Wall": "675844bdf94a97cbbe096f1a",
           "Floor": "6758443ff94a97cbbe096f18",
@@ -19406,46 +19406,6 @@
           "availableAfter": 0
         },
         {
-          "qid": "6a2653da811161d4acc34d35",
-          "startTime": 0,
-          "status": 1,
-          "statusTimers": {
-            "1": 1780896774.707
-          },
-          "completedConditions": [],
-          "availableAfter": 0
-        },
-        {
-          "qid": "6a2772ff56312cbff43e61c1",
-          "startTime": 0,
-          "status": 1,
-          "statusTimers": {
-            "1": 1780971804.961
-          },
-          "completedConditions": [],
-          "availableAfter": 0
-        },
-        {
-          "qid": "6a2772ff56312cbff43e61ce",
-          "startTime": 0,
-          "status": 1,
-          "statusTimers": {
-            "1": 1780971804.961
-          },
-          "completedConditions": [],
-          "availableAfter": 0
-        },
-        {
-          "qid": "6a2772ff56312cbff43e61d9",
-          "startTime": 0,
-          "status": 1,
-          "statusTimers": {
-            "1": 1780971804.961
-          },
-          "completedConditions": [],
-          "availableAfter": 0
-        },
-        {
           "qid": "5fd9fad9c1ce6b1a3b486d00",
           "startTime": 1780973947,
           "status": 2,
@@ -19645,62 +19605,11 @@
         "unlockedProductionRecipe": []
       },
       "RagfairInfo": {
-        "rating": 1.7727989999999998,
-        "isRatingGrowing": true,
-        "offers": [
-          {
-            "sellResult": [],
-            "_id": "6a2fbd1105fe9177347230a2",
-            "items": [
-              {
-                "_id": "6a2fb40e05fe917734700554",
-                "_tpl": "60a7ad2a2198820d95707a2e",
-                "parentId": "hideout",
-                "slotId": "hideout",
-                "upd": {
-                  "FaceShield": {
-                    "Hits": 0,
-                    "HitSeed": 112
-                  },
-                  "StackObjectsCount": 1,
-                  "Repairable": {
-                    "Durability": 22.7006912,
-                    "MaxDurability": 39.42112
-                  },
-                  "SpawnedInSession": true
-                }
-              }
-            ],
-            "requirements": [
-              {
-                "_tpl": "5449016a4bdc2d6f028b456f",
-                "count": 391000,
-                "onlyFunctional": false
-              }
-            ],
-            "root": "6a2fb40e05fe917734700554",
-            "intId": 275478,
-            "itemsCost": 135000,
-            "requirementsCost": 391000,
-            "startTime": 1781513489,
-            "endTime": 1781556689,
-            "sellInOnePiece": false,
-            "summaryCost": 391000,
-            "user": {
-              "id": "6a229740a3631139983e7c2c",
-              "nickname": "OBJAY101",
-              "rating": 1.722799,
-              "memberType": 1026,
-              "selectedMemberCategory": 1024,
-              "isRatingGrowing": true,
-              "aid": 1762168
-            },
-            "loyaltyLevel": 1,
-            "locked": false,
-            "quantity": 1
-          }
-        ],
-        "sellSum": 7910995
+        "rating": 1.7427989999999998,
+        "isRatingGrowing": false,
+        "offers": [],
+        "sellSum": 7910995,
+        "notSellSum": 391000
       },
       "Achievements": {
         "65141c30ec10ff011f17cc3b": 1780653273,
@@ -26087,8 +25996,8 @@
       "_id": "5935c25fb3acc3127c3d8cd9"
     },
     "5ac3b934156ae10c4430e83c": {
-      "attachmentsNew": 0,
-      "new": 12,
+      "attachmentsNew": 1,
+      "new": 13,
       "type": 2,
       "pinned": false,
       "messages": [
@@ -26452,6 +26361,40 @@
           "items": {
             "stash": "6a2fbd5305fe9177347241a3",
             "data": []
+          },
+          "maxStorageTime": 86313600
+        },
+        {
+          "_id": "6a30abd72bf0ec75285ef235",
+          "uid": "5ac3b934156ae10c4430e83c",
+          "type": 13,
+          "dt": 1781574615,
+          "templateId": "5bdabfe486f7743e1665df6e 0",
+          "text": "",
+          "hasRewards": true,
+          "rewardCollected": false,
+          "items": {
+            "stash": "6a30abd72bf0ec75285ef233",
+            "data": [
+              {
+                "_id": "6a30abd72bf0ec75285ef236",
+                "_tpl": "60a7ad2a2198820d95707a2e",
+                "parentId": "6a30abd72bf0ec75285ef233",
+                "slotId": "main",
+                "upd": {
+                  "FaceShield": {
+                    "Hits": 0,
+                    "HitSeed": 112
+                  },
+                  "StackObjectsCount": 1,
+                  "Repairable": {
+                    "Durability": 22.7006912,
+                    "MaxDurability": 39.42112
+                  },
+                  "SpawnedInSession": true
+                }
+              }
+            ]
           },
           "maxStorageTime": 86313600
         }
@@ -27191,6 +27134,19 @@
         "author": "Solarint",
         "dateAdded": 1780730716,
         "url": "https://github.com/ArchangelWTF/SAIN"
+      },
+      {
+        "name": "BetterBackpacks",
+        "version": "1.0.1",
+        "author": "Refringe",
+        "dateAdded": 1781593579
+      },
+      {
+        "name": "SVM",
+        "version": "2.1.2",
+        "author": "GhostFenixx",
+        "dateAdded": 1781593579,
+        "url": "https://github.com/GhostFenixx"
       }
     ],
     "receivedGifts": [
